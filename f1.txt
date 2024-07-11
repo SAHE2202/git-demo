@@ -1,0 +1,7 @@
+BRANCHES IN GIT:
+DELETE BRANCH:git branch -d "filename"
+CREATE BRANCH:git branch "name"
+LIST OF BRANCH:git branch -a
+LOGIN NEW BRANCH:git checkout "branch name"
+CREATE & SWITCH OVER:git checkout -b "branch name"
+BRANCH MERGE :git merge "current branch" "target branch"
